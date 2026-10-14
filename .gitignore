@@ -66,3 +66,104 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+.DS_Store
+.idea
+
+# =========================
+# CLion / JetBrains
+# =========================
+.idea/
+*.iml
+
+# =========================
+# CMake
+# =========================
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# =========================
+# Build output
+# =========================
+build/
+bin/
+lib/
+
+# =========================
+# Compiled files
+# =========================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# =========================
+# Debug / profiling
+# =========================
+*.dSYM/
+*.stackdump
+
+# =========================
+# C/C++ tooling
+# =========================
+compile_commands.json
+
+# =========================
+# OS files
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.log
+
+# Build directories
+cmake-build-*/
+
+# Compiled executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# CLion
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Laboratoires/Labo-02/main.exe

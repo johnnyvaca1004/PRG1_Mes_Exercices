@@ -1,0 +1,84 @@
+# =========================
+# CLion / JetBrains
+# =========================
+.idea/
+*.iml
+
+# =========================
+# CMake
+# =========================
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# =========================
+# Build output
+# =========================
+build/
+bin/
+lib/
+
+# =========================
+# Compiled files
+# =========================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# =========================
+# Debug / profiling
+# =========================
+*.dSYM/
+*.stackdump
+
+# =========================
+# C/C++ tooling
+# =========================
+compile_commands.json
+
+# =========================
+# OS files
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.log
+
+# Build directories
+cmake-build-*/
+
+# Compiled executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# CLion
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile

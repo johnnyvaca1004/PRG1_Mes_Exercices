@@ -1,0 +1,55 @@
+{
+  "enabled": true,
+  "closeExistingTerminals": false,
+  "skipResetConfirmation": false,
+  "tabs": [
+    {
+      "id": "575028de-cd87-402b-8ef9-073da0a6a564",
+      "name": "Git Bash",
+      "shellId": "gitbash",
+      "workingDirectory": "C:\\Program Files\\Git",
+      "enabled": true,
+      "startupCommand": "",
+      "color": "",
+      "useTmux": false,
+      "env": {},
+      "openIf": ""
+    },
+    {
+      "id": "559c3d0f-dd8c-4e90-a0cb-587ea4c9ee6e",
+      "name": "PowerShell",
+      "shellId": "powershell",
+      "workingDirectory": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+      "enabled": true,
+      "startupCommand": "",
+      "color": "",
+      "useTmux": false,
+      "env": {},
+      "openIf": ""
+    },
+    {
+      "id": "f85f89a5-7e07-439b-9ec6-dc96570ba62e",
+      "name": "cmd",
+      "shellId": "cmd",
+      "workingDirectory": "C:\\WINDOWS\\system32",
+      "enabled": true,
+      "startupCommand": "",
+      "color": "",
+      "useTmux": false,
+      "env": {},
+      "openIf": ""
+    },
+    {
+      "id": "012bdb04-7177-46c1-90a5-494decd2402e",
+      "name": "Terminal",
+      "shellId": "default",
+      "workingDirectory": "",
+      "enabled": true,
+      "startupCommand": "",
+      "color": "",
+      "useTmux": false,
+      "env": {},
+      "openIf": ""
+    }
+  ]
+}
